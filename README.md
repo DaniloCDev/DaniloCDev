@@ -1,12 +1,12 @@
 
-# Hi, I'm Danilo ! :D
+# Hi how are u?, I'm Danilo ! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/danzok)](https://github.com/ItKarma)
 
 ### About me
 
 - 📚 **Learning Style**: Self-taught,[Website](https://edools-3-production.s3.amazonaws.com/org-6988/school-7227/certificates/enrollment-8166692/course-84414-xipci.pdf) I participated in CC50, at the Study in Practice Foundation
--  👤 - hello, you can call me Karma. I'm a Back-end developer from Brazil,  3 years of coding.
+-  👤 - hello, you can call me Karma. I'm a Back-end developer from Brazil,  5 years of coding, but just starting haha.
 
 ```js
 let set = require("./set.js");
