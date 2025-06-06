@@ -8,32 +8,10 @@
 - 📚 **Learning Style**: Self-taught,[Website](https://edools-3-production.s3.amazonaws.com/org-6988/school-7227/certificates/enrollment-8166692/course-84414-xipci.pdf) I participated in CC50, at the Study in Practice Foundation
 -  👤 - hello, you can call me Karma. I'm a Back-end developer from Brazil,  5 years of coding, but just starting haha.
 
-```js
-let set = require("./set.js");
-
-set("Karma", {
-   furry: true,
-   have_dreams: true,
-   programming_where: [
-      { pc: "windows", type: "main system" },
-      { pc: "linux", type: "test/development environment" }
-   ],
-   favorite_languages: [
-      "javascript",
-      "Golang",
-   ],
-   studying: [
-      "Golang",
-      "TypeScript",
-      "ruby",
-   ],
-   slogan :[
+```
       "Since I doubt, I think, since I think, therefore I am.",
       "I don't have a dime, but I always have a positive outlook",
       "I'm a man on a mission",
-   ]
-   
-});
 ```
 
 
